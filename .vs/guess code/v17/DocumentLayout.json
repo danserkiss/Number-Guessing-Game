@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dupaa\\Desktop\\pet\\guess code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7259C334-A7AF-42AE-9A85-3F901C44105F}|guess code\\guess code.vcxproj|C:\\Users\\dupaa\\Desktop\\pet\\guess code\\guess code\\guess code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7259C334-A7AF-42AE-9A85-3F901C44105F}|guess code\\guess code.vcxproj|solutionrelative:guess code\\guess code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "guess code.cpp",
+              "DocumentMoniker": "C:\\Users\\dupaa\\Desktop\\pet\\guess code\\guess code\\guess code.cpp",
+              "RelativeDocumentMoniker": "guess code\\guess code.cpp",
+              "ToolTip": "C:\\Users\\dupaa\\Desktop\\pet\\guess code\\guess code\\guess code.cpp",
+              "RelativeToolTip": "guess code\\guess code.cpp",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAwFgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T19:16:44.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

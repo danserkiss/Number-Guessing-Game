@@ -1,0 +1,3 @@
+﻿  guess code.cpp
+C:\Users\dupaa\Desktop\pet\guess code\guess code\guess code.cpp(85,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  guess code.vcxproj -> C:\Users\dupaa\Desktop\pet\guess code\x64\Debug\guess code.exe

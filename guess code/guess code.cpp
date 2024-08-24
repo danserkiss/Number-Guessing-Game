@@ -41,7 +41,7 @@ void check(const vector<int>& a, const int k[4]) {
                 all++;
         }
     }
-    cout << all << " all right" << endl;
+    cout << all << " right numbers" << endl;
     cout << onrightplaces << " on right places" << endl;
     if(all==4 && onrightplaces==4)
     {

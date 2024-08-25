@@ -1,0 +1,1 @@
+Hello! The goal of the game is to guess a four-digit number that the computer has chosen. After each number you enter, the computer will tell you how many digits you guessed correctly from the chosen number and how many of those guessed digits are in their correct positions.
